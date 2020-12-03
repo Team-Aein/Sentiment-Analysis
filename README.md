@@ -11,11 +11,11 @@ First of all login from your Twitter account and goto Twitter Apps. Create a new
 Once you have created an app on twitter and installed all the dependencies by running setup.py, open main.py and paste your Consumer Key, Consumer Secret, Access Token and Access Token Secret. 
 
 # Built With
-Python 3.9
-tweepy
-textblob
-matplotlib
-seaborn
-re
-numpy
-jsonpickle
+* Python 3.9
+* tweepy
+* textblob
+* matplotlib
+* seaborn
+* re
+* numpy
+* jsonpickle
