@@ -8,7 +8,7 @@ This script can tell you the sentiments of people regarding to any events happen
 First of all login from your Twitter account and goto Twitter Apps. Create a new app (How to create twitter app) and goto Keys and access tokens and copy Consumer Key, Consumer Secret, Access Token and Access Token Secret. We will need them later.
 
 # Usage
-Once you have created an app on twitter and installed all the dependencies by running setup.py, open main.py and paste your Consumer Key, Consumer Secret, Access Token and Access Token Secret. 
+Once you have created an app on twitter and installed all the dependencies by running setup.py, open twitter sentiment analysis.py and paste your Consumer Key, Consumer Secret, Access Token and Access Token Secret. 
 
 # Built With
 * Python 3.9
