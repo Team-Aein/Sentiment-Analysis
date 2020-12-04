@@ -19,4 +19,5 @@ Once you have created an app on twitter and installed all the dependencies by ru
 * re
 * numpy
 * jsonpickle
+* pandas
 
